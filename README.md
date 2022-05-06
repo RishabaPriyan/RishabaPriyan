@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Full-Stack Development**
 
-- 👨‍💻 All of my projects are available at [www.rishabapriyan.me](https://www.rishabapriyan.me)
+- 👨‍💻 All of my projects are available at <a href="https://www.rishabapriyan.me" target="_blank">rishabapriyan.me</a>
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1xhcofPLweujcmdQAw5FJoOMZJygW0ki3/view?usp=sharing](https://drive.google.com/file/d/1xhcofPLweujcmdQAw5FJoOMZJygW0ki3/view?usp=sharing)
 
